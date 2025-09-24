@@ -1,0 +1,2 @@
+# credit-card-fraud-detection
+This project focuses on anomaly detection to identify fraudulent credit card transactions within a highly imbalanced dataset (284,807 transactions with 492 fraud cases). 🔹 Key steps performed: Conducted data analysis and feature engineering to prepare the dataset. Built and evaluated models using various Machine Learning techniques. Implemented AutoML with PyCaret to automate model comparison and optimization. Assessed performance on the imbalanced dataset using AUPRC (Area Under Precision-Recall Curve) and confusion matrix.
